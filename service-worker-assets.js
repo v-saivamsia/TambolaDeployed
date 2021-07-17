@@ -165,7 +165,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-zoPh5irhXTyzak+1+JZGR7TdeFKzel77nKZaw6+iBAQ=",
+      "hash": "sha256-V6hke8mK8aXi1VYuyybFb0YQdKZ88BtHAFgMeFui2FI=",
       "url": "_framework\/Tambola.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-T8vnYqVyeOAIYIk+mgz8mm2uY\/z1e039iY26DjhuW8k=",
+      "hash": "sha256-8SHxirhjCb18lEt7I56Mzeujjt9vTL18uNdLjnBZric=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "W2BEM5WH"
+  "version": "6956HPed"
 };
