@@ -1,15 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": ".nojekyll"
-    },
-    {
-      "hash": "sha256-3HzU7JXzGMVYFuO1qOIUjySzHuUWT91yyI5wjZtblKQ=",
-      "url": "404.html"
-    },
-    {
-      "hash": "sha256-rZWTndZJwoGOM6UskxIAnC3Mp1hFI8lZgsU\/TTEMCGY=",
+      "hash": "sha256-9izm1+HZ9aeKFOKlhMyqoo\/RhIxIoU+0Uidr6768\/Os=",
       "url": "css\/app.css"
     },
     {
@@ -17,12 +9,12 @@
       "url": "css\/LoadingItems.css"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
-      "url": "favicon.ico"
+      "hash": "sha256-aI1Qd2ucn753Q3Yu5zYBfj14zecjYS0c1R+L57KfQOM=",
+      "url": "index.html"
     },
     {
-      "hash": "sha256-PEY3wN2HG6YsNQ7tvPIqYEsflpzMN4qQNoksR3dkNiQ=",
-      "url": "index.html"
+      "hash": "sha256-soAoKxsd0zXazO2ruLKOuDPXa\/tI\/jaoJRgvtEDm5rM=",
+      "url": "manifest.json"
     },
     {
       "hash": "sha256-DT+Tq5B0Vc7r6buKSVk1Z+fe05Nss8o6ToOntqgvJqs=",
@@ -157,7 +149,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-+9GVlBm76Z87sZGDieNcDoZwDtohwN0OUvWpUq80GfU=",
+      "hash": "sha256-4SqU8rnB9QHI7Ljn6WTEg3T\/XGlJfya1Ctg6kZd8hRA=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -165,7 +157,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-1JjW3oOl8dDgZI\/ORR+NuqRjQfW6bRNIWrv603VecGM=",
+      "hash": "sha256-54ttb1Ul1e1HP46RARNmY7UKmJA3P9MqOsKwiqIM9ic=",
       "url": "_framework\/Tambola.dll"
     },
     {
@@ -273,7 +265,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-hKcOz2WIIgDtVVDwNnTWlLMDW7DugYm\/Vtsu0rzgwRA=",
+      "hash": "sha256-s+6mhZOwQidi89f61gWlD3\/F58CpJsewUwrHcFb+J\/I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,5 +273,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "JH2Fb+NI"
+  "version": "P68\/LjEB"
 };
