@@ -1,7 +1,15 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-9izm1+HZ9aeKFOKlhMyqoo\/RhIxIoU+0Uidr6768\/Os=",
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-3HzU7JXzGMVYFuO1qOIUjySzHuUWT91yyI5wjZtblKQ=",
+      "url": "404.html"
+    },
+    {
+      "hash": "sha256-rZWTndZJwoGOM6UskxIAnC3Mp1hFI8lZgsU\/TTEMCGY=",
       "url": "css\/app.css"
     },
     {
@@ -9,12 +17,12 @@
       "url": "css\/LoadingItems.css"
     },
     {
-      "hash": "sha256-Cj1VE1fchA839vjqMeUU+3I\/8IYvZeDGn2D83PmDLXA=",
-      "url": "index.html"
+      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "url": "favicon.ico"
     },
     {
-      "hash": "sha256-soAoKxsd0zXazO2ruLKOuDPXa\/tI\/jaoJRgvtEDm5rM=",
-      "url": "manifest.json"
+      "hash": "sha256-PEY3wN2HG6YsNQ7tvPIqYEsflpzMN4qQNoksR3dkNiQ=",
+      "url": "index.html"
     },
     {
       "hash": "sha256-DT+Tq5B0Vc7r6buKSVk1Z+fe05Nss8o6ToOntqgvJqs=",
@@ -149,7 +157,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-4SqU8rnB9QHI7Ljn6WTEg3T\/XGlJfya1Ctg6kZd8hRA=",
+      "hash": "sha256-+9GVlBm76Z87sZGDieNcDoZwDtohwN0OUvWpUq80GfU=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
@@ -157,7 +165,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-jIucBtxunBoyMdOSMaK+NEjTZdefoV4NEuFVCtRO8kk=",
+      "hash": "sha256-zoPh5irhXTyzak+1+JZGR7TdeFKzel77nKZaw6+iBAQ=",
       "url": "_framework\/Tambola.dll"
     },
     {
@@ -265,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-I78bmj5xYC7m2cF6belOL8ADE\/nYUKCxrAeiJNAZau0=",
+      "hash": "sha256-T8vnYqVyeOAIYIk+mgz8mm2uY\/z1e039iY26DjhuW8k=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -273,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "uiNJ6VSa"
+  "version": "W2BEM5WH"
 };
