@@ -55,12 +55,13 @@
 /* /Pages/BodyTemplate.razor.rz.scp.css */
 .container[b-00h2fjbjqr]{
     width:100%;
-    height:100%;
+    height:calc(100vh - 60px);
     display:grid;
     grid-template-columns:250px auto;
     grid-template-rows:auto;
 }
 .sidebar[b-00h2fjbjqr]{
+    height:100%;
     display:block;
     background-color:#dfdfdf;
     display:flex;

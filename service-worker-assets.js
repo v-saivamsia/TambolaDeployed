@@ -93,7 +93,7 @@
       "url": "_framework\/dotnet.6.0.0-preview.5.21301.5.js"
     },
     {
-      "hash": "sha256-gn46Bzzk5u6O+y2LJil1PPQnWbp5RyqNnQ4ZVcH0sXQ=",
+      "hash": "sha256-p6+527bZWnOuTxAQib99VUsVchR47sLCVEka31pib4M=",
       "url": "Tambola.styles.css"
     },
     {
@@ -281,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "MEIZqpMK"
+  "version": "SWy081o\/"
 };
