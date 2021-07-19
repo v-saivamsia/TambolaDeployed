@@ -21,7 +21,7 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-PEY3wN2HG6YsNQ7tvPIqYEsflpzMN4qQNoksR3dkNiQ=",
+      "hash": "sha256-w9ICphmeznKh1dW2cIWjamEHiZIMdzymSLdUBzWICOs=",
       "url": "index.html"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/dotnet.6.0.0-preview.5.21301.5.js"
     },
     {
-      "hash": "sha256-p6+527bZWnOuTxAQib99VUsVchR47sLCVEka31pib4M=",
+      "hash": "sha256-ZL1mijn4F7\/6kMHymLob9g5aMiZM2e4CJJIKKqCk1mY=",
       "url": "Tambola.styles.css"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-KX2isjYNEgt1iW1NHVx95MPLAVh0oXz1hjsCKP+2thU=",
+      "hash": "sha256-uTRmU2\/6Tivo\/OSk+ORFiPTHZr7gOgfsyTiHMqBudlw=",
       "url": "_framework\/Tambola.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-zWRFnW2fmfbS5TEdgxQDzOrT1Tz8hOVw5Z\/HzFSi87g=",
+      "hash": "sha256-HIr\/Hu5NDActFIlgUtOEXh4V3W6ltod0978bA\/ONY9w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "nghrC+Cp"
+  "version": "mtlS+5os"
 };

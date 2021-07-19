@@ -114,6 +114,13 @@ body[b-b3el8ha0hz] {
 .navBar-displayTickets[b-b3el8ha0hz]{
 	border-top:1px solid black;
 }
+td[b-b3el8ha0hz]{
+	height:45px;
+	width:45px;
+	border:1px solid black;
+	box-sizing:border-box;
+	text-align:center;
+}
 /* /Pages/FullButton.razor.rz.scp.css */
 div[b-9m5xqnhfb3]{
     width:100%;
