@@ -209,6 +209,27 @@ div.modal>div[b-isx32xayc8]{
 div.buttons>button[b-isx32xayc8]{
     width:150px;
 }
+/* /Pages/NumberPicker.razor.rz.scp.css */
+.grid[b-tb5dqhzajo]{
+    width:fit-content;
+    display:grid;
+    grid-template-rows: repeat(9,50px);
+    grid-template-columns: repeat(10,50px);
+    grid-gap:10px;
+}
+.currentNumber[b-tb5dqhzajo]{
+    margin-bottom:10px;
+    width:6rem;
+    height:6rem;
+    text-align:center;
+    border:1px solid black;
+    background:#96fefe;
+    font-size:5rem;
+    border-radius:10px;
+}
+.width100[b-tb5dqhzajo]{
+    width:100%;
+}
 /* /Pages/Test.razor.rz.scp.css */
 .body[b-x6ebm5bpj5]{
     height: calc(100vh - 60px);

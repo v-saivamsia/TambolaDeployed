@@ -9,7 +9,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-rZWTndZJwoGOM6UskxIAnC3Mp1hFI8lZgsU\/TTEMCGY=",
+      "hash": "sha256-VcXHrliRTGpZuN0ML6VS3Mo5FP+ux\/M+0SEn7c2yUbQ=",
       "url": "css\/app.css"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/dotnet.6.0.0-preview.5.21301.5.js"
     },
     {
-      "hash": "sha256-ZL1mijn4F7\/6kMHymLob9g5aMiZM2e4CJJIKKqCk1mY=",
+      "hash": "sha256-b3skX5mXN8i8vxWuASVKEkXULJFe9NqMjLasgnHJGZ0=",
       "url": "Tambola.styles.css"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "hash": "sha256-pNTvEX0RiCckKubUz4ozwBaczvrpraIafyzsW0ojpdo=",
+      "hash": "sha256-RLn44dPLR+zNG0VLDZOzsI5d5etnj7tpDDHKmmVYhb4=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-uTRmU2\/6Tivo\/OSk+ORFiPTHZr7gOgfsyTiHMqBudlw=",
+      "hash": "sha256-2ItCBVeyKguPe+QOV7inyvsNgDrCzcnXC5\/RAtO31J8=",
       "url": "_framework\/Tambola.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-HIr\/Hu5NDActFIlgUtOEXh4V3W6ltod0978bA\/ONY9w=",
+      "hash": "sha256-wNgdT2B2iwiKRpO4APInRMp81wgETYGXwivTUXZWJ3U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "mtlS+5os"
+  "version": "6PDmQRm3"
 };
